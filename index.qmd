@@ -3,7 +3,7 @@ title: "Workshop RStudio 2025"
 format: html
 ---
 
-## Schedule
+## Rencana Jadwal
 
 
 | Session         | Date / Time (±)  | Topic                                      | Description                                                                                                                                                                                           |
