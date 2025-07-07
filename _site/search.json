@@ -2,15 +2,15 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "workshop",
+    "title": "Workshop RStudio 2025",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Session\nDate / Time (±)\nTopic\nDescription\n\n\n\n\n~\nBefore Day 1\nPreparation\nComplete the Pre-workshop activities—install R 4.x & RStudio, download datasets, run the “Hello R” test script.\n\n\nDay 1 (4 h)\n09:00 – 09:15\nWelcome & Environment Check\nQuick poll of OS/experience, verify everyone can run code in RStudio.\n\n\n1\n09:15 – 10:15\nIntroduction to R & RStudio\nIDE tour, running code, scripts vs Console, basic data types & structures, importing CSV/Excel.\n\n\n2\n10:15 – 12:15\nData Wrangling with tidyverse\nHands-on with filter(), select(), mutate(), group_by(), pipes (%&gt;%).\n\n\n3\n12:15 – 13:00\nData Visualization & Descriptive Stats\nBuild first plots in ggplot2 and compute mean, median, sd with dplyr/summary().\n\n\nDay 2 (4 h)\n09:00 – 09:15\nWarm-up & Q &A\nQuick recap, troubleshoot lingering issues from Day 1.\n\n\n4\n09:15 – 10:45\nBasic Inferential Tests\nOne-sample & two-sample t-tests, χ² test, one-way ANOVA. Emphasis on interpreting output.\n\n\n5\n10:45 – 12:45\nRegression & Intro to Quarto\nCorrelation vs simple/multiple regression, visual diagnostics. Then knit results into a Quarto report. (10-min break mid-block.)\n\n\n~\n12:45 – 13:00\nWrap-up & Next Steps\nPoint to Post-workshop exercises, share cheat-sheet bundle, collect feedback.\n\n\n~\nAfter Day 2\n\nTackle the post-workshop exercises and share your Quarto reports on the class channel."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "index.html#schedule",
+    "href": "index.html#schedule",
+    "title": "Workshop RStudio 2025",
     "section": "",
-    "text": "About this site"
+    "text": "Session\nDate / Time (±)\nTopic\nDescription\n\n\n\n\n~\nBefore Day 1\nPreparation\nComplete the Pre-workshop activities—install R 4.x & RStudio, download datasets, run the “Hello R” test script.\n\n\nDay 1 (4 h)\n09:00 – 09:15\nWelcome & Environment Check\nQuick poll of OS/experience, verify everyone can run code in RStudio.\n\n\n1\n09:15 – 10:15\nIntroduction to R & RStudio\nIDE tour, running code, scripts vs Console, basic data types & structures, importing CSV/Excel.\n\n\n2\n10:15 – 12:15\nData Wrangling with tidyverse\nHands-on with filter(), select(), mutate(), group_by(), pipes (%&gt;%).\n\n\n3\n12:15 – 13:00\nData Visualization & Descriptive Stats\nBuild first plots in ggplot2 and compute mean, median, sd with dplyr/summary().\n\n\nDay 2 (4 h)\n09:00 – 09:15\nWarm-up & Q &A\nQuick recap, troubleshoot lingering issues from Day 1.\n\n\n4\n09:15 – 10:45\nBasic Inferential Tests\nOne-sample & two-sample t-tests, χ² test, one-way ANOVA. Emphasis on interpreting output.\n\n\n5\n10:45 – 12:45\nRegression & Intro to Quarto\nCorrelation vs simple/multiple regression, visual diagnostics. Then knit results into a Quarto report. (10-min break mid-block.)\n\n\n~\n12:45 – 13:00\nWrap-up & Next Steps\nPoint to Post-workshop exercises, share cheat-sheet bundle, collect feedback.\n\n\n~\nAfter Day 2\n\nTackle the post-workshop exercises and share your Quarto reports on the class channel."
   }
 ]

@@ -1,5 +1,21 @@
 ---
-title: "workshop"
+title: "Workshop RStudio 2025"
+format: html
 ---
 
-Under building.
+## Schedule
+
+
+| Session         | Date / Time (±)  | Topic                                      | Description                                                                                                                                                                                           |
+| --------------- | ---------------- | ------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ~               | **Before Day 1** | **Preparation**                            | Complete the [Pre-workshop activities](https://chatgpt.com/c/686b2975-6e08-800f-8701-9c34306eb62b#pre-workshop-activities)—install R 4.x & RStudio, download datasets, run the “Hello R” test script. |
+| **Day 1 (4 h)** | 09:00 – 09:15    | **Welcome & Environment Check**            | Quick poll of OS/experience, verify everyone can run code in RStudio.                                                                                                                                 |
+| 1               | 09:15 – 10:15    | **Introduction to R & RStudio**            | IDE tour, running code, scripts vs Console, basic data types & structures, importing CSV/Excel.                                                                                                       |
+| 2               | 10:15 – 12:15    | **Data Wrangling with tidyverse**          | Hands-on with `filter()`, `select()`, `mutate()`, `group_by()`, pipes (`%>%`).                                                                                                                        |
+| 3               | 12:15 – 13:00    | **Data Visualization & Descriptive Stats** | Build first plots in **ggplot2** and compute mean, median, sd with `dplyr`/`summary()`.                                                                                                               |
+| **Day 2 (4 h)** | 09:00 – 09:15    | **Warm-up & Q &A**                         | Quick recap, troubleshoot lingering issues from Day 1.                                                                                                                                                |
+| 4               | 09:15 – 10:45    | **Basic Inferential Tests**                | One-sample & two-sample _t_-tests, χ² test, one-way ANOVA. Emphasis on interpreting output.                                                                                                           |
+| 5               | 10:45 – 12:45    | **Regression & Intro to Quarto**           | Correlation vs simple/multiple regression, visual diagnostics. Then knit results into a Quarto report. _(10-min break mid-block.)_                                                                    |
+| ~               | 12:45 – 13:00    | **Wrap-up & Next Steps**                   | Point to [Post-workshop exercises](https://chatgpt.com/c/exercises.html), share cheat-sheet bundle, collect feedback.                                                                                 |
+| ~               | **After Day 2**  |                                            | Tackle the post-workshop exercises and share your Quarto reports on the class channel.                                                                                                                |
+|
